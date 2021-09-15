@@ -1,0 +1,21 @@
+Networking
+	-client object
+	-networking scripts
+		send/recieve
+
+Player
+	-movement
+	-collision
+	-interaction
+	
+Building
+	-collision
+	-interaction
+	
+Vehicles
+	-movement
+	-interaction
+	
+UI
+	-menu
+	-emotes
