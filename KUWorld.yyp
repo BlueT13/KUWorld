@@ -1,6 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"obj_client","path":"objects/obj_client/obj_client.yy",},"order":0,},
     {"id":{"name":"todo","path":"notes/todo/todo.yy",},"order":15,},
+    {"id":{"name":"NetScripts","path":"scripts/NetScripts/NetScripts.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
